@@ -1,16 +1,42 @@
-## Hi there 👋
+# Rennê Cerqueira 🚀
 
-<!--
-**Renne-cerqueira/Renne-cerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+📍 Teresina, PI — Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 💻 Entrando no mundo da programação com foco em base forte  
+- 📚 Construindo base sólida em C, HTML, CSS e JavaScript  
+- 🚀 Em evolução constante — sem pressa, mas sem parar  
+- 🎯 Objetivo: me tornar um desenvolvedor completo  
+
+---
+
+## ⚙️ Atualmente estudando
+
+![C](https://img.shields.io/badge/C-Programming-blue)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Fundamentos](https://img.shields.io/badge/Fundamentos%20da%20Computação-gray)
+
+---
+
+## 📈 Em construção
+
+Ainda sem projetos públicos — por enquanto.  
+Mas isso vai mudar conforme a base fica sólida.  
+
+---
+
+## 🌐 Conexões
+
+🔗 Linkedin: https://www.linkedin.com/in/renne-cerqueira  
+
+---
+
+## 💭 Mentalidade
+
+> "Sem base forte, não existe topo."
