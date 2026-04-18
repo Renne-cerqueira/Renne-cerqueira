@@ -35,7 +35,7 @@ Mas isso vai mudar conforme a base fica sólida.
 
 🔗 Linkedin: https://www.linkedin.com/in/renne-cerqueira  
 
-📞 telefone para contato (whatsapp): (89) 93300-4387
+![WhatsApp](https://img.shields.io/badge/WhatsApp-89%2093300--4387-green)
 ---
 ## 💭 Mentalidade
 
