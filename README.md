@@ -35,8 +35,8 @@ Mas isso vai mudar conforme a base fica sólida.
 
 🔗 Linkedin: https://www.linkedin.com/in/renne-cerqueira  
 
+ 📞 telefone para contato (whatsapp): (89) 93300-4387
 ---
-
 ## 💭 Mentalidade
 
 > "Sem base forte, não existe topo."
