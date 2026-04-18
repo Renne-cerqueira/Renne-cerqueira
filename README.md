@@ -35,8 +35,7 @@ Mas isso vai mudar conforme a base fica sólida.
 
 🔗 Linkedin: https://www.linkedin.com/in/renne-cerqueira  
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-89%2093300--4387-green)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-89%2093300--4387-green)](https://wa.me/5589933004387)
 ---
-## 💭 Mentalidade
 
 > "Sem base forte, não existe topo."
